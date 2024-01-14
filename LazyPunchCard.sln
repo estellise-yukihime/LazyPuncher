@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "main", "main\main.csproj", "{E4DF71B5-DF87-4992-9BE9-6C325E314460}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puncher", "Puncher\Puncher.csproj", "{70CE6223-38A3-4672-BAAF-07B44CC7906A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Puncher.HostBuilderExtension", "Puncher.HostBuilderExtension\Puncher.HostBuilderExtension.csproj", "{57BE56F8-4873-48BC-85F4-5568B587F2D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4DF71B5-DF87-4992-9BE9-6C325E314460}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4DF71B5-DF87-4992-9BE9-6C325E314460}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4DF71B5-DF87-4992-9BE9-6C325E314460}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4DF71B5-DF87-4992-9BE9-6C325E314460}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CE6223-38A3-4672-BAAF-07B44CC7906A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70CE6223-38A3-4672-BAAF-07B44CC7906A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70CE6223-38A3-4672-BAAF-07B44CC7906A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70CE6223-38A3-4672-BAAF-07B44CC7906A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57BE56F8-4873-48BC-85F4-5568B587F2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57BE56F8-4873-48BC-85F4-5568B587F2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57BE56F8-4873-48BC-85F4-5568B587F2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57BE56F8-4873-48BC-85F4-5568B587F2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

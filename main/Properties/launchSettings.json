@@ -1,0 +1,11 @@
+{
+    "profiles": {
+        "main_Development": {
+            "commandName": "Project",
+            "environmentVariables": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "commandLineArgs": "--help"
+        }
+    }
+}
