@@ -1,4 +1,8 @@
-# Lazy Punching Bag | ![Static Badge](https://img.shields.io/badge/status-25%25-red)
+# Lazy Punching Bag
+
+### 
+
+![Static Badge](https://img.shields.io/badge/status-25%25-red)
 
 ### Why was this made?
 
