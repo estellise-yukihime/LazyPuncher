@@ -2,7 +2,7 @@
 
 ####
 
-![Static Badge](https://img.shields.io/badge/status-25%25-red)
+![Static Badge](https://img.shields.io/badge/status-30%25-red)
 
 ### Why was this made?
 
