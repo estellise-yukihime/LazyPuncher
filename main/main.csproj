@@ -21,7 +21,6 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Puncher.HostBuilderExtension\Puncher.HostBuilderExtension.csproj" />
       <ProjectReference Include="..\Puncher\Puncher.csproj" />
     </ItemGroup>
 

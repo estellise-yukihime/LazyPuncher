@@ -7,7 +7,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-using Puncher.HostBuilderExtension;
+using Puncher.Extensions;
 
 var environment = Environment.GetEnvironmentVariable("ASPNETCORE_ENVIRONMENT");
 var builder = Host.CreateApplicationBuilder(new HostApplicationBuilderSettings

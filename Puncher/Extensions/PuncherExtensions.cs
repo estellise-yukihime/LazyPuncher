@@ -2,9 +2,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
 using Puncher.Factory;
 
-namespace Puncher.HostBuilderExtension;
+namespace Puncher.Extensions;
 
-public static class HostBuilderExtension
+public static class PuncherExtensions
 {
     public static void AddPuncher(this IServiceCollection serviceCollection, ServiceLifetime serviceLifetime = ServiceLifetime.Singleton)
     {
